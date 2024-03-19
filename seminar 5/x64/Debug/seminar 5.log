@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\Delia\Source\Repos\seminar 5\seminar 5\FileName.c(101,60): warning C4305: 'function': truncation from 'double' to 'float'
+  seminar 5.vcxproj -> C:\Users\Delia\Source\Repos\seminar 5\x64\Debug\seminar 5.exe
