@@ -1,0 +1,6 @@
+﻿  FileName.c
+C:\Users\stud\source\repos\seminar 6\seminar 6\FileName.c(65,50): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\stud\source\repos\seminar 6\seminar 6\FileName.c(66,5): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\stud\source\repos\seminar 6\seminar 6\FileName.c(93,19): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\stud\source\repos\seminar 6\seminar 6\FileName.c(142,60): warning C4305: 'function': truncation from 'double' to 'float'
+  seminar 6.vcxproj -> C:\Users\stud\source\repos\seminar 6\x64\Debug\seminar 6.exe
