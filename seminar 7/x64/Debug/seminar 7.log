@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\Delia\Source\Repos\seminar 7\seminar 7\FileName.c(47,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  seminar 7.vcxproj -> C:\Users\Delia\Source\Repos\seminar 7\x64\Debug\seminar 7.exe
